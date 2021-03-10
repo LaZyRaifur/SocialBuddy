@@ -11,13 +11,14 @@ import {
 function App() {
   return (
     <Router>
+      <Home></Home>
       <Switch>
         <Route path="/home">
           <Home></Home>
 
 
         </Route>
-        <Route exac path="/">
+        <Route exact path="/">
           <Home/>
         </Route>
       </Switch>
