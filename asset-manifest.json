@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LaZyRaifur/SocialBuddy/static/css/main.ea108eb3.chunk.css",
+    "main.js": "/LaZyRaifur/SocialBuddy/static/js/main.5d65208b.chunk.js",
+    "main.js.map": "/LaZyRaifur/SocialBuddy/static/js/main.5d65208b.chunk.js.map",
+    "runtime-main.js": "/LaZyRaifur/SocialBuddy/static/js/runtime-main.273a92f3.js",
+    "runtime-main.js.map": "/LaZyRaifur/SocialBuddy/static/js/runtime-main.273a92f3.js.map",
+    "static/js/2.70a1bb5f.chunk.js": "/LaZyRaifur/SocialBuddy/static/js/2.70a1bb5f.chunk.js",
+    "static/js/2.70a1bb5f.chunk.js.map": "/LaZyRaifur/SocialBuddy/static/js/2.70a1bb5f.chunk.js.map",
+    "static/js/3.2840014c.chunk.js": "/LaZyRaifur/SocialBuddy/static/js/3.2840014c.chunk.js",
+    "static/js/3.2840014c.chunk.js.map": "/LaZyRaifur/SocialBuddy/static/js/3.2840014c.chunk.js.map",
+    "index.html": "/LaZyRaifur/SocialBuddy/index.html",
+    "static/css/main.ea108eb3.chunk.css.map": "/LaZyRaifur/SocialBuddy/static/css/main.ea108eb3.chunk.css.map",
+    "static/js/2.70a1bb5f.chunk.js.LICENSE.txt": "/LaZyRaifur/SocialBuddy/static/js/2.70a1bb5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.273a92f3.js",
+    "static/js/2.70a1bb5f.chunk.js",
+    "static/css/main.ea108eb3.chunk.css",
+    "static/js/main.5d65208b.chunk.js"
+  ]
+}
