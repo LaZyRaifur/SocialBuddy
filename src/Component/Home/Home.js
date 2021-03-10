@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Post from '../Post/Post';
-import Comment from '../Comment/Comment';
+
 import './Home.css';
 
 const Home = () => {
